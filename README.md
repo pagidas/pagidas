@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a UK Fintech startup
-- 🌱 I’m currently learning Kafka
-- 👯 I’m looking to collaborate on building microservices in Kotlin
-- 💬 Ask me about life!
+- 🌱 I’m currently learning [Kafka](https://kafka.apache.org/documentation/)
+- 👯 I’m looking to collaborate on building microservices in [Kotlin](https://kotlinlang.org/)
+- 💬 Ask me about life... and Software Engineering
