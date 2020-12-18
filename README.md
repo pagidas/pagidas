@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Kostas
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/pagidas?label=Follow&style=social)](https://github.com/pagidas)
 
 - 🔭 I’m currently working on a UK Banking startup
 - 🌱 I’m currently learning [Kafka](https://kafka.apache.org/documentation/)
