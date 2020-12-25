@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/pagidas?label=Follow&style=social)](https://github.com/pagidas)
 
 - 🔭 I’m currently working on a UK Banking startup
-- 🌱 I’m currently learning [Kafka](https://kafka.apache.org/documentation/)
+- 🌱 I’m learning [Kafka](https://kafka.apache.org/documentation/)
 - 👯 I’m looking to collaborate on building microservices in [Kotlin](https://kotlinlang.org/)
 - 💬 Ask me about life... and Software Engineering
 
