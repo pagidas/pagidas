@@ -17,4 +17,4 @@
 
 ## Extras
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pagidas&repo=kotlin-kafka-choreography-saga)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pagidas&repo=kotlin-kafka-choreography-saga)](https://github.com/pagidas/kotlin-kafka-choreography-saga)
