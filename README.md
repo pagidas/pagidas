@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on a UK Banking startup
 - 🌱 I’m learning [Kafka](https://kafka.apache.org/documentation/)
+- :closed_book: Take a look at short recorded learnings in my blog -- [pagidas.github.io](https://pagidas.github.io)
 - 👯 I’m looking to collaborate on building microservices in [Kotlin](https://kotlinlang.org/)
 - 💬 Ask me about life... and Software Engineering
-- :closed_book: Take a look at short recorded learnings in my blog -- [pagidas.github.io](https://pagidas.github.io)
 
 ## Github Stats
 
