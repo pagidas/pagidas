@@ -19,3 +19,5 @@
 ## Extras
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pagidas&repo=kotlin-kafka-choreography-saga)](https://github.com/pagidas/kotlin-kafka-choreography-saga)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pagidas&repo=kotlin-testcontainers-demo)](https://github.com/pagidas/kotlin-testcontainers-demo)
