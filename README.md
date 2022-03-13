@@ -2,9 +2,9 @@
 [![Github](https://img.shields.io/github/followers/pagidas?label=Follow&style=social)](https://github.com/pagidas)
 
 - 🔭 I’m currently working in a UK Banking startup
-- 🌱 I’m learning [Kafka](https://kafka.apache.org/documentation/)
+- 🌱 I’m learning a bit of functional programming
 - :closed_book: Take a look at short recorded learnings in my blog -- [pagidas.github.io](https://pagidas.github.io)
-- 👯 I’m looking to collaborate on building microservices in [Kotlin](https://kotlinlang.org/)
+- 👯 I’m looking to collaborate on building stuff in [Kotlin](https://kotlinlang.org/)
 - 💬 Ask me about life... and Software Engineering
 
 ## Github Stats
@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagidas&theme=darcula&layout=compact" />
 </a>
 
-## Extras
+## Favorite projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pagidas&repo=ports-and-adapters-demo)](https://github.com/pagidas/ports-and-adapters-demo)
 
