@@ -7,15 +7,6 @@
 - 👯 I’m looking to collaborate on building stuff in [Kotlin](https://kotlinlang.org/)
 - 💬 Ask me about life... and Software Engineering
 
-## Github Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pagidas&theme=darcula&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagidas&theme=darcula&layout=compact" />
-</a>
-
 ## Favorite projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pagidas&repo=ports-and-adapters-demo)](https://github.com/pagidas/ports-and-adapters-demo)
